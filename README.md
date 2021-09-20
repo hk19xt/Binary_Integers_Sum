@@ -1,4 +1,4 @@
-# Binary_Integers_Sum(In Progess)
+# Binary_Integers_Sum
 This program is to calculate the sum of two integers without +,- operations.
 
 How to run this program:
