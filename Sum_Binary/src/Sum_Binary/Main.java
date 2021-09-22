@@ -2,7 +2,9 @@ package Sum_Binary;
 
 /*This is the main class.
 The user can change the input integers in the hardcoded line.
-The sum of two integers will be calculated without operations, such as + or -. This calculation will be implemented based on binary, xor, and carry. */
+The sum of two integers will be calculated without operations, such as + or -. This calculation will be implemented based on binary, xor, and carry. 
+Author: Hyejin Kim
+Date: 9/21/2021 */
 
 public class Main {
     public static void main (String[] args){
